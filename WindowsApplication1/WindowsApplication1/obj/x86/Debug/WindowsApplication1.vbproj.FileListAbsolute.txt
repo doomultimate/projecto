@@ -1,0 +1,52 @@
+C:\Users\RicardoC\Documents\Visual Studio 2010\Projects\PCII\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+C:\Users\RicardoC\Documents\Visual Studio 2010\Projects\PCII\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\RicardoC\Documents\Visual Studio 2010\Projects\PCII\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\RicardoC\Documents\Visual Studio 2010\Projects\PCII\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\RicardoC\Documents\Visual Studio 2010\Projects\PCII\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\RicardoC\Documents\Visual Studio 2010\Projects\PCII\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\RicardoC\Documents\Visual Studio 2010\Projects\PCII\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\RicardoC\Documents\Visual Studio 2010\Projects\PCII\WindowsApplication1\WindowsApplication1\bin\Debug\HtmlAgilityPack.dll
+C:\Users\RicardoC\Documents\Visual Studio 2010\Projects\PCII\WindowsApplication1\WindowsApplication1\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\RicardoC\Documents\Visual Studio 2010\Projects\PCII\WindowsApplication1\WindowsApplication1\bin\Debug\HtmlAgilityPack.xml
+C:\Users\RicardoC\Documents\Visual Studio 2010\Projects\PCII\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\Users\RicardoC\Documents\Visual Studio 2010\Projects\PCII\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\Users\RicardoC\Documents\Visual Studio 2010\Projects\PCII\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+C:\Users\mieig1207205\Downloads\WindowsApplication1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\Users\mieig1207205\Downloads\WindowsApplication1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\Users\mieig1207205\Downloads\WindowsApplication1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+C:\Users\mieig1207205\Downloads\WindowsApplication1\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\mieig1207205\Downloads\WindowsApplication1\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\mieig1207205\Downloads\WindowsApplication1\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\mieig1207205\Downloads\WindowsApplication1\WindowsApplication1\WindowsApplication1\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\mieig1207205\Downloads\WindowsApplication1\WindowsApplication1\WindowsApplication1\bin\Debug\HtmlAgilityPack.xml
+C:\Users\mieig1207205\Downloads\WindowsApplication1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\mieig1207205\Downloads\WindowsApplication1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\mieig1207205\Downloads\WindowsApplication1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\mieig1207205\Downloads\WindowsApplication1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\mieig1207205\Downloads\WindowsApplication1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\gei12020\Downloads\WindowsApplication\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\Users\gei12020\Downloads\WindowsApplication\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\Users\gei12020\Downloads\WindowsApplication\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+C:\Users\gei12020\Downloads\WindowsApplication\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\gei12020\Downloads\WindowsApplication\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\gei12020\Downloads\WindowsApplication\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\gei12020\Downloads\WindowsApplication\WindowsApplication1\WindowsApplication1\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\gei12020\Downloads\WindowsApplication\WindowsApplication1\WindowsApplication1\bin\Debug\HtmlAgilityPack.xml
+C:\Users\gei12020\Downloads\WindowsApplication\WindowsApplication1\WindowsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\gei12020\Downloads\WindowsApplication\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\gei12020\Downloads\WindowsApplication\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\gei12020\Downloads\WindowsApplication\WindowsApplication1\WindowsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\gei12020\Downloads\WindowsApplication\WindowsApplication1\WindowsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\gei12020\Downloads\Downloads\WindowsApplication\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\Users\gei12020\Downloads\Downloads\WindowsApplication\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\Users\gei12020\Downloads\Downloads\WindowsApplication\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+C:\Users\gei12020\Downloads\Downloads\WindowsApplication\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\gei12020\Downloads\Downloads\WindowsApplication\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\gei12020\Downloads\Downloads\WindowsApplication\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\gei12020\Downloads\Downloads\WindowsApplication\WindowsApplication1\WindowsApplication1\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\gei12020\Downloads\Downloads\WindowsApplication\WindowsApplication1\WindowsApplication1\bin\Debug\HtmlAgilityPack.xml
+C:\Users\gei12020\Downloads\Downloads\WindowsApplication\WindowsApplication1\WindowsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\gei12020\Downloads\Downloads\WindowsApplication\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\gei12020\Downloads\Downloads\WindowsApplication\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\gei12020\Downloads\Downloads\WindowsApplication\WindowsApplication1\WindowsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\gei12020\Downloads\Downloads\WindowsApplication\WindowsApplication1\WindowsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
